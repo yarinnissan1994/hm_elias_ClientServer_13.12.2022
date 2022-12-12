@@ -1,0 +1,25 @@
+.navBar {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+.headerList {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 100px !important;
+}
+a {
+  color: aliceblue !important;
+  text-decoration: none !important;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+a:hover {
+  color: rgb(133, 255, 253) !important;
+}
